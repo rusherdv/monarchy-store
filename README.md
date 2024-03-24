@@ -19,7 +19,9 @@ E-commerce for roleplay server of fivem, the frontend is based on ReactJS and th
 2. Go to Backend, open terminal and put npm start
 
 <hr>
-![monarchy](https://github.com/rusherdv/monarchy-store/assets/105472000/961c0d8d-a2eb-4a81-8300-dde556c40382)
+
+![monarchy](https://github.com/rusherdv/monarchy-store/assets/105472000/889dc925-a034-469d-bddc-8295f6149553)
+
 <hr>
 
  📝 **|** **Contact**
