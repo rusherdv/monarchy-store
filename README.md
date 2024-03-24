@@ -20,7 +20,8 @@ E-commerce for roleplay server of fivem, the frontend is based on ReactJS and th
 
 <hr>
 <div align="center">
-![monarchy](https://github.com/rusherdv/monarchy-store/assets/105472000/889dc925-a034-469d-bddc-8295f6149553)
+![monarchy](https://github.com/rusherdv/monarchy-store/assets/105472000/d4f20f7a-8016-45e9-8f46-5f73acb3d52a)
+
 </div>
 <hr>
 
